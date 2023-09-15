@@ -1,5 +1,5 @@
 # VPlay
-VPlay is a sports court booking system which allows the user to book a court of their interested sport. You can see the working demonstration on by directing to the link: [Video_Demonstration](https://drive.google.com/file/d/19-GXNJUq3TirnKhRbV_M4oE8U8DbFFZX/view). It primarily has 2 functions, namely authentication and bookings.
+VPlay is a sports court booking system which allows the user to book a court of their interested sport. You can see the working demonstration on by directing to the link: [Video_Demonstration](https://drive.google.com/file/d/19-GXNJUq3TirnKhRbV_M4oE8U8DbFFZX/view?usp=sharing). It primarily has 2 functions, namely authentication and bookings.
 
 _Authentication_
 The website begins with a landing page that divides into 2 paths:
